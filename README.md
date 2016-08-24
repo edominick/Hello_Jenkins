@@ -1,4 +1,5 @@
 Caleb Alexander, Gurleen Phagura, Bryan Tham, Erina Dominick
+[![Build Status](http://jenkins.chico.liatr.io/job/Big%20Daddy%20and%20the%20Idiots/badge/icon)](http://jenkins.chico.liatr.io/job/Big%20Daddy%20and%20the%20Idiots/)
 
 
 ##Hello_Jenkins
